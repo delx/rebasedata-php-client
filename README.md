@@ -1,5 +1,11 @@
 # rebasedata-php-client
 
+Attention
+---------
+
+THIS IS THE OLD VERSION OF THE REBASEDATA PHP-CLIENT LIBRARY.
+THE NEW VERSION CAN BE FOUND HERE: [https://github.com/rebasedata/php-client](https://github.com/rebasedata/php-client)
+
 
 Installation via Composer
 -------------------------
